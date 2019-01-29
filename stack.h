@@ -44,7 +44,7 @@ void* pop_stack(Stack stack);
 /**
  * Returns the topmost item of the stack without removing it.
  * @param stack The stack from which to take.
- * @return The element returned from the stack.
+ * @return The element returned from the stack.z
 */
 void* peek_stack(Stack stack);
 
